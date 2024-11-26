@@ -1,0 +1,12 @@
+GPT-4o mini
+GPT-4o mini (“o” for “omni”) is our most advanced model in the small models category, and our cheapest model yet. It is multimodal (accepting text or image inputs and outputting text), has higher intelligence than gpt-3.5-turbo but is just as fast. It is meant to be used for smaller tasks, including vision tasks.
+
+We recommend choosing gpt-4o-mini where you would have previously used gpt-3.5-turbo as this model is more capable and cheaper.
+
+Model	Context window	Max output tokens	Training data
+gpt-4o-mini
+Our affordable and intelligent small model for fast, lightweight tasks. GPT-4o mini is cheaper and more capable than GPT-3.5 Turbo. Currently points to gpt-4o-mini-2024-07-18.
+128,000 tokens	16,384 tokens	Up to Oct 2023
+gpt-4o-mini-2024-07-18
+gpt-4o-mini currently points to this version.
+128,000 tokens	16,384 tokens	Up to Oct 2023
